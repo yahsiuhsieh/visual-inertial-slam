@@ -16,7 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
     ├── src                    # Python scripts
     │   ├── main.py            # Main Visual-Intertial SLAM  file
     │   ├── slam.py            # Helper for Visual-Intertial SLAM
-    │   ├── slam_utils.py	     # Utility sets of the of the SLAM
+    │   ├── slam_utils.py	   # Utility sets of the of the SLAM
     │   └── visualize_utils.py # Utility sets to visualize the result
     └── README.md
 
