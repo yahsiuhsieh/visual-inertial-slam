@@ -1,4 +1,4 @@
-# SLAM using extended kalman filter
+# SLAM using Extended Kalman Filter
 
 This project aims to simultaneously localize a robot and map an unknown outdoor environment using IMU data and a 2D stereo camera features. An EKF based approach is taken to achieve the objective.
 
