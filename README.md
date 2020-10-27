@@ -33,7 +33,10 @@ These instructions will get you a copy of the project up and running on your loc
 * See the [report](https://github.com/arthur960304/visual-inertial-slam/blob/master/report/report.pdf) for detailed implementations.
 
 ## Results
-![Data 4](https://github.com/arthur960304/visual-inertial-slam/blob/master/results/compare22.png)
+
+<p align="center">
+  <img width="500" height="400" src="https://github.com/arthur960304/visual-inertial-slam/blob/master/results/compare22.png">
+</p>
 
 
 ## Authors
