@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Please review [requirements.txt](https://github.com/arthur960304/color-segmentation/blob/master/requirements.txt).
+Please review [requirements.txt](https://github.com/arthur960304/visual-inertial-slam/blob/master/requirements.txt).
 
 ## Code organization
 
