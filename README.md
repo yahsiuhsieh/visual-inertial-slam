@@ -7,6 +7,10 @@ This project aims to simultaneously localize a robot and map an unknown outdoor 
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
+### Prerequisites
+
+Please review [requirements.txt](https://github.com/arthur960304/color-segmentation/blob/master/requirements.txt).
+
 ## Code organization
 
     .
