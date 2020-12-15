@@ -2,6 +2,9 @@
 
 This project aims to simultaneously localize a robot and map an unknown outdoor environment using IMU data and a 2D stereo camera features. An EKF based approach is taken to achieve the objective.
 
+<p align="center">
+  <img width="900" height="277" src="https://github.com/arthur960304/visual-inertial-slam/blob/master/results/demo.gif">
+</p>
 
 ## Getting Started
 
